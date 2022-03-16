@@ -1,4 +1,5 @@
 hello world
 chenged user2
 new line by user2
+another Line from user1
 good evening (from branch master)
